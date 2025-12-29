@@ -1,0 +1,17 @@
+E:\Source\Pishgham\backend\src\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+E:\Source\Pishgham\backend\src\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+E:\Source\Pishgham\backend\src\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+E:\Source\Pishgham\backend\src\Infrastructure\bin\Debug\net8.0\Application.dll
+E:\Source\Pishgham\backend\src\Infrastructure\bin\Debug\net8.0\Domain.dll
+E:\Source\Pishgham\backend\src\Infrastructure\bin\Debug\net8.0\Domain.pdb
+E:\Source\Pishgham\backend\src\Infrastructure\bin\Debug\net8.0\Application.pdb
+E:\Source\Pishgham\backend\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+E:\Source\Pishgham\backend\src\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\Pishgham\backend\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Source\Pishgham\backend\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+E:\Source\Pishgham\backend\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Source\Pishgham\backend\src\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+E:\Source\Pishgham\backend\src\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+E:\Source\Pishgham\backend\src\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+E:\Source\Pishgham\backend\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+E:\Source\Pishgham\backend\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

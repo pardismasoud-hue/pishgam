@@ -1,0 +1,15 @@
+E:\Source\Pishgham\backend\src\Application\bin\Debug\net8.0\Application.deps.json
+E:\Source\Pishgham\backend\src\Application\bin\Debug\net8.0\Application.dll
+E:\Source\Pishgham\backend\src\Application\bin\Debug\net8.0\Application.pdb
+E:\Source\Pishgham\backend\src\Application\bin\Debug\net8.0\Domain.dll
+E:\Source\Pishgham\backend\src\Application\bin\Debug\net8.0\Domain.pdb
+E:\Source\Pishgham\backend\src\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+E:\Source\Pishgham\backend\src\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\Pishgham\backend\src\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+E:\Source\Pishgham\backend\src\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+E:\Source\Pishgham\backend\src\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+E:\Source\Pishgham\backend\src\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+E:\Source\Pishgham\backend\src\Application\obj\Debug\net8.0\Application.dll
+E:\Source\Pishgham\backend\src\Application\obj\Debug\net8.0\refint\Application.dll
+E:\Source\Pishgham\backend\src\Application\obj\Debug\net8.0\Application.pdb
+E:\Source\Pishgham\backend\src\Application\obj\Debug\net8.0\ref\Application.dll

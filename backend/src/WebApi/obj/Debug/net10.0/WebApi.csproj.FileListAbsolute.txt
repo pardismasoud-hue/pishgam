@@ -1,0 +1,8 @@
+E:\Source\Pishgham\backend\src\WebApi\obj\Debug\net10.0\WebApi.csproj.AssemblyReference.cache
+E:\Source\Pishgham\backend\src\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Source\Pishgham\backend\src\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\Pishgham\backend\src\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+E:\Source\Pishgham\backend\src\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+E:\Source\Pishgham\backend\src\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+E:\Source\Pishgham\backend\src\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Source\Pishgham\backend\src\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
